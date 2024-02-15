@@ -22,5 +22,3 @@ if __name__ == '__main__':
     main()
 
 
-#super user - username: Saketh
-#password: Reddy13*
